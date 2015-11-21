@@ -1,4 +1,5 @@
 # Intro
-Throwaway meh! This will endure!
+
+A throwaway experimental repo for a Git tutorial.
 
 Hello!
